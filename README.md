@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaciejKolibabski
 - 👀 I’m interested in automotive and business
-- 🌱 I’m currently learning ... JAVA, SQL, DOCKER, BI 
+- 🌱 I’m currently learning ... SQL, JAVA, Python, PowerBI
 - 💞️ I’m working at Accenture
 - 📫 How to reach me ...
 
