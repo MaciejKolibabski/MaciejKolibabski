@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaciejKolibabski
 - 👀 I’m interested in automotive and business
 - 🌱 I’m currently learning ... SQL, JAVA, Python, PowerBI
-- 💞️ I’m working at ING Hubs as a Data Analyst
+- 💞️ I’m working at ING Hubs as a Data Scientist
 - 📫 How to reach me ...
 
 <!---
